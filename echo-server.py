@@ -1,3 +1,4 @@
+#Программа эхо-сервер
 import asyncore
 import socket
 
